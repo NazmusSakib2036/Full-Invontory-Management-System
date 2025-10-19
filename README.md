@@ -82,6 +82,6 @@ Licensed under the [MIT License](LICENSE).
 
 ---
 
-> Find me on [GitHub](https://github.com/NazmusSakib2036) &nbsp;&middot;&nbsp; [LinkedIn]((https://www.linkedin.com/in/nazmus-sakib-303345241))
+> Find me on [GitHub](https://github.com/NazmusSakib2036) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/nazmus-sakib-303345241)
 
 ---
